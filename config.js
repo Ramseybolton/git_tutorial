@@ -1,2 +1,2 @@
 console.log('config.js');
-console.log('version5');
+console.log('the new github push');
